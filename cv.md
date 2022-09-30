@@ -17,14 +17,14 @@
 * hold different __positions__ (Head of Department, Head of Branch, Executive Director, Deputy CEO) and __roles__ (CDO, COO, CIO)
 * dozens of __projects__ were successfully implemented
 * number of uniq banking __products__ were developed
-* new __customer business segmemnt__ was successsfully launched
+* new __customer business segment__ was successsfully launched
 
 ## Skills
 
 * proficiency  in management (teams, units, Boаrd area up to 160 employees)
 * deep understanding of Banking (Payments, E-money, Cards, Acuaring, Lending, Risk Management etc.)
 * expertise in IT management, processes & projects management
-* basics skills in Markdown, HTML, JavaScript, C#, DB.
+* basics skills in Markdown, HTML, JavaScript, CSS.
 
 ## Code examples
 
