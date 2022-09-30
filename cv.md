@@ -17,7 +17,7 @@
 * hold different __positions__ (Head of Department, Head of Branch, Executive Director, Deputy CEO) and __roles__ (CDO, COO, CIO)
 * dozens of __projects__ were successfully implemented
 * number of uniq banking __products__ were developed
-* new __customer business segmemnt__was successsfully launched
+* new __customer business segmemnt__ was successsfully launched
 
 ## Skills
 
