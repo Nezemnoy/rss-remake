@@ -22,7 +22,7 @@
 ## Skills
 
 * proficiency  in management (teams, units, Boаrd area up to 160 employees)
-* deep understanding of Banking (Payments, E-money, Cards, Acuaring, Lending, Risk Management etc.)
+* deep understanding of Banking (Payments, E-money, Cards, Acquiring, Lending, Risk Management etc.)
 * expertise in IT management, processes & projects management
 * basics skills in Markdown, HTML, JavaScript, CSS, Git.
 
